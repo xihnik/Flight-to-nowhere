@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.894,U:\Курсовая вот\reg.pas=U:\Курсовая вот\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,U:\Курсовая вот\Unit2.dfm=U:\Курсовая вот\zab_pass.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,U:\Курсовая вот\gmenu.pas=U:\Курсовая вот\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,U:\Курсовая вот\shop.dfm=U:\Курсовая вот\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,U:\Курсовая вот\Unit4.dfm=U:\Курсовая вот\setting.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,U:\Курсовая вот\Unit5.pas=U:\Курсовая вот\game.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,=U:\Курсовая вот\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,U:\Курсовая вот\Unit15.dfm=C:\Users\shkad\Documents\Embarcadero\Studio\Projects\Unit15.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=U:\Курсовая вот\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,U:\Курсовая вот\shop.pas=U:\Курсовая вот\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,U:\Курсовая вот\reg.dfm=U:\Курсовая вот\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,U:\Курсовая вот\gmenu.dfm=U:\Курсовая вот\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,U:\Курсовая вот\Project12.dproj=C:\Users\shkad\Documents\Embarcadero\Studio\Projects\Project12.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,U:\Курсовая вот\auth.pas=U:\Курсовая вот\Unit15.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,U:\Курсовая вот\Records.pas=U:\Курсовая вот\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,=C:\Users\shkad\Documents\Embarcadero\Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=U:\Курсовая вот\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,=U:\Курсовая вот\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.010,=U:\Курсовая вот\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,U:\Курсовая вот\auth.dfm=U:\Курсовая вот\Unit15.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,U:\Курсовая вот\Unit15.pas=C:\Users\shkad\Documents\Embarcadero\Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,U:\Курсовая вот\Records.dfm=U:\Курсовая вот\Unit7.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=U:\Курсовая вот\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.037,U:\Курсовая вот\Unit2.pas=U:\Курсовая вот\zab_pass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,U:\Курсовая вот\Unit5.dfm=U:\Курсовая вот\game.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,U:\Курсовая вот\polet_v_nikyda.dproj=U:\Курсовая вот\Project12.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.624,=U:\Курсовая вот\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,U:\Курсовая вот\Unit4.pas=U:\Курсовая вот\setting.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.219,=U:\Курсовая вот\Unit4.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="auth.pas"/>
+    <File Path="auth.dfm"/>
+    <File Path="reg.pas"/>
+    <File Path="reg.dfm"/>
+    <File Path="zab_pass.pas"/>
+    <File Path="zab_pass.dfm"/>
+    <File Path="gmenu.pas"/>
+    <File Path="gmenu.dfm"/>
+    <File Path="setting.pas"/>
+    <File Path="setting.dfm"/>
+    <File Path="game.pas"/>
+    <File Path="game.dfm"/>
+    <File Path="shop.pas"/>
+    <File Path="shop.dfm"/>
+    <File Path="Records.pas"/>
+    <File Path="Records.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
